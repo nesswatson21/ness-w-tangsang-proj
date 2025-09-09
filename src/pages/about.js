@@ -52,7 +52,7 @@ function about() {
                                 Biography
                             </h2>
                             <p className="font-medium text-dark/75">
-                                Hello, my name is Ness Watson Tangsang and I&apos;m Full Stack Developer and My passion lies in creating and designing applications and games that not only look visually appealing but are also intuitive, fun, and engaging for users.
+                                Hello, my name is Ness Watson Tangsang and I&apos;m Full Stack Developer, from a young age, I was deeply enthusiastic about technology, sparking an interest that began in my childhood. I studied computer subjects in school during those early days, where I learned programming languages like GW-BASIC and worked with floppy disks on systems running Windows 95 and NT. Often, my mom would pick me up from school and take me to her office, where I eagerly absorbed even more knowledge. These experiences continued into my time in Class 11, exploring tools like FoxPro learning to design databases, write queries, and build functional systems that felt like real software in my hands and JAVA, HTML, CSS.  laying the foundation for my lifelong passion for tech..
                             </p>
                             <p className="font-medium my-4 text-dark/75">
                                 I&apos;ve always been curious about how things
