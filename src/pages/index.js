@@ -50,11 +50,11 @@ I am a quick learner & have a good problem solving mindset. I am a result orient
                                     <LinkArrow className={"w-6 ml-1"} />
                                 </Link>
                                 <Link
-                                    href="mailto:nesswtsn90@gmail.com"
+                                    href="https://nieztarooy.blogspot.com/"
                                     target={"_blank"}
                                     className="ml-4 font-medium capitalize text-dark underline border-2 border-solid border-transparent hover:border-dark rounded-lg text-lg front-semibold p-2.5 px-6 md:text-base"
                                 >
-                                    Contact
+                                    Archive Site
                                 </Link>
                             </div>
                         </div>
