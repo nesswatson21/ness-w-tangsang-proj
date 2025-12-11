@@ -35,20 +35,14 @@ export default function Home() {
                                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text 6xl md:!text-5xl sm:!text-3xl"
                             />
                             <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                                                               Hello, I'm Ness Watson Tangsang, a Full Stack Developer passionate about building high quality, modern, and scalable web applications. I’ve been deeply involved in web development for the past 3 years, working on several real-world end-to-end projects using technologies like HTML, CSS, JavaScript, Python, React.js, TypeScript, Redux, Web3.js, React Context API, and Firebase.
-I hold a Bachelor of Science in Information Technology and have professional experience as a React Developer intern in Blockchain Technology, contributing to decentralized applications and smart-contract-driven interfaces.
-Alongside software development, I have also completed my training at Arena Multimedia, where I gained strong expertise in:
-•	Video Editing (Davinci Resolve Studio ,Adobe Premiere Pro, After Effects)
-•	Animation & Motion Graphics
-•	Graphic Design (Photoshop, Illustrator)
-•	3D Modeling & Rendering (Blender, Maya )
-•	Color Grading & Film Look Development
-•	Davinci Resolve & Advanced Color Science
-•	Developing Custom OpenDRT / film-emulation workflows
-•	Language Transform & Look Development for video
-I am also exploring Audio VST (plugin) programming, UI layout design, and creative interface development — combining code with sound engineering and artistic visuals.
-I’m a quick learner, a problem-solver, and someone with a strong always-learning attitude. I love upgrading my skills, working across creative + technical fields, and bringing ideas to life through code, design, and multimedia. 🚀
+                                                              
+Hi, I'm Ness Watson Tangsang — a Full Stack Developer and Creative Technologist. I’ve spent the last 2 years building real-world, end-to-end web applications using React, TypeScript, Redux, Web3, Python, and Firebase. I love turning ideas into modern, scalable digital products.
 
+My background also includes Hardware & Networking, Cisco training, CompTIA Network+, and CEH, giving me a strong foundation in security and IT systems.
+
+Outside coding, I’m passionate about multimedia. I completed my training at Arena Multimedia, where I learned video editing, animation, graphic design, Blender, Maya, color grading, and advanced DaVinci Resolve + OpenDRT workflows. I also create DCTL (DaVinci Color Transform Language) tools and work with Unreal Engine to build real-time 3D environments and cinematic visuals. I’m currently diving into Audio VST development and creative UI design.
+
+I’m always learning, always building, and always exploring new technologies to level up my craft. 🚀
 
                             </p>
                             <div className=" w-80 flex justify-between items-center self-start mt-2 lg:self-center">
