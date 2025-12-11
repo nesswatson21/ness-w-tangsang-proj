@@ -36,7 +36,7 @@ export default function Home() {
                             />
                             <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
                                                               
-Hi, I'm Ness Watson Tangsang — a Full Stack Developer and Creative Technologist. I’ve spent the last 2 years building real-world, end-to-end web applications using React, TypeScript, Redux, Web3, Python, and Firebase. I love turning ideas into modern, scalable digital products.
+Hi, I'm Ness Watson Tangsang — a Full Stack Developer and Creative Technologist. I’ve spent the last 3 years building real-world, end to end web applications using React, TypeScript, Redux, Web3, Python, and Firebase. I love turning ideas into modern, scalable digital products.
 
 My background also includes Hardware & Networking, Cisco training, CompTIA Network+, and CEH, giving me a strong foundation in security and IT systems.
 
