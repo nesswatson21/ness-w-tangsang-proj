@@ -35,9 +35,21 @@ export default function Home() {
                                 className="!text-6xl !text-left xl:!text-5xl lg:!text-center lg:!text 6xl md:!text-5xl sm:!text-3xl"
                             />
                             <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                                                                Hello, I&apos;m Ness Watson Tangsang, I am a Full Stack Developer who&apos;s passionate & ethusiastic about creating web application. I am into web developement from past 2 years and I have experience working on serveral real world end-to-end project using HTML, CSS, Javascript, Python,  React JS, Typescript, Redux, Web3.js ,React Context API & Firebase . I have done my graduation in Bachelors of Science in Information Technology. And I have internships experience as a React Developer in Blockchain Technology.
+                                                               Hello, I'm Ness Watson Tangsang, a Full Stack Developer passionate about building high quality, modern, and scalable web applications. I’ve been deeply involved in web development for the past 3 years, working on several real-world end-to-end projects using technologies like HTML, CSS, JavaScript, Python, React.js, TypeScript, Redux, Web3.js, React Context API, and Firebase.
+I hold a Bachelor of Science in Information Technology and have professional experience as a React Developer intern in Blockchain Technology, contributing to decentralized applications and smart-contract-driven interfaces.
+Alongside software development, I have also completed my training at Arena Multimedia, where I gained strong expertise in:
+•	Video Editing (Davinci Resolve Studio ,Adobe Premiere Pro, After Effects)
+•	Animation & Motion Graphics
+•	Graphic Design (Photoshop, Illustrator)
+•	3D Modeling & Rendering (Blender, Maya )
+•	Color Grading & Film Look Development
+•	Davinci Resolve & Advanced Color Science
+•	Developing Custom OpenDRT / film-emulation workflows
+•	Language Transform & Look Development for video
+I am also exploring Audio VST (plugin) programming, UI layout design, and creative interface development — combining code with sound engineering and artistic visuals.
+I’m a quick learner, a problem-solver, and someone with a strong always-learning attitude. I love upgrading my skills, working across creative + technical fields, and bringing ideas to life through code, design, and multimedia. 🚀
 
-I am a quick learner & have a good problem solving mindset. I am a result oriented person and have a always learning attitude. I love to learn new technologies & keep upgrading my skills!🚀
+
                             </p>
                             <div className=" w-80 flex justify-between items-center self-start mt-2 lg:self-center">
                                 <Link
