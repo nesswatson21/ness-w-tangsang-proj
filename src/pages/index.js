@@ -11,7 +11,7 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Ness Watson Tangsang | Home Page</title>
+                <title>Ness Tangsang | Home Page</title>
                 <meta
                     name="description"
                     content="Built by Ness Watson Tangsang."
@@ -36,13 +36,13 @@ export default function Home() {
                             />
                             <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
                                                               
-Hi, I'm Ness Watson Tangsang — a Full Stack Developer and Creative Technologist. I’ve spent the last 3 years building real world, end to end web applications using React, TypeScript, Redux, Web3, Python, and Firebase. I love turning ideas into modern, scalable digital products.
+Hi, Im Ness Watson Tangsang a Full Stack Developer and Creative Technologist. I have spent the last 3 years building real world, end to end web applications using React, TypeScript, Redux, Web3, Python, and Firebase. I love turning ideas into modern, scalable digital products.
 
-My background also includes Hardware & Networking, with hands-on experience across Linux-based systems, along with training in Cisco training, CompTIA Network+, and CEH, giving me a strong foundation in security and IT systems.
+My background also includes Hardware & Networking, with hands on experience across Linux based systems, along with training in Cisco training, CompTIA Network+, and CEH, giving me a strong foundation in security and IT systems.
 
-Outside coding, I’m passionate about multimedia. I completed my training at Arena Multimedia, where I learned video editing, VFX, animation, graphic design, Blender, Maya, Cinema 4D, Houdini , color grading, and advanced DaVinci Resolve + OpenDRT workflows. I also create DCTL (DaVinci Color Transform Language) tools and work with Unreal Engine to build real-time 3D environments and cinematic visuals. I’m currently diving into Audio VST development and creative UI design.
+Outside coding, Im passionate about multimedia. I completed my training at Arena Multimedia, where I learned video editing, VFX, animation, graphic design, Blender, Maya, Cinema 4D, Resolume, Propresenter, Houdini, color grading, and advanced DaVinci Resolve + OpenDRT workflows. I also create DCTL (DaVinci Color Transform Language) tools and work with Unreal Engine to build real time 3D environments and cinematic visuals. Im currently diving into Audio VST development and creative UI design.
 
-I’m always learning, always building, and always exploring new technologies to level up my craft. 🚀
+Im always learning, always building, and always exploring new technologies to level up my craft. 🚀
 
                             </p>
                             <div className=" w-80 flex justify-between items-center self-start mt-2 lg:self-center">
