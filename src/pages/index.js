@@ -40,7 +40,7 @@ Hi, Im Ness Watson Tangsang a Full Stack Developer and Creative Technologist. I 
 
 My background also includes Hardware & Networking, with hands on experience across Linux based systems, along with training in Cisco training, CompTIA Network+, and CEH, giving me a strong foundation in security and IT systems.
 
-Outside coding, Im passionate about multimedia. I completed my training at Arena Multimedia, where I learned video editing, VFX, animation, graphic design, Blender, Maya, Cinema 4D, Resolume, Propresenter, Houdini, color grading, and advanced DaVinci Resolve + OpenDRT workflows. I also create DCTL (DaVinci Color Transform Language) tools and work with Unreal Engine to build real time 3D environments and cinematic visuals. Im currently diving into Audio VST development and creative UI design.
+Outside coding, Im passionate about multimedia. I completed my training at Arena Multimedia, where I learned video editing, color grading, Colorist Developer building cinematic looks with code and color science using (C Programming Language, CUDA ) , VFX, animation, graphic design, Blender, Maya, Cinema 4D, Resolume, Propresenter, Houdini,  and advanced DaVinci Resolve + OpenDRT workflows. I also create DCTL (DaVinci Color Developer) tools and work with Unreal Engine to build real time 3D environments and cinematic visuals. Im currently diving into Audio VST development and creative UI design.
 
 Im always learning, always building, and always exploring new technologies to level up my craft. 🚀
 
