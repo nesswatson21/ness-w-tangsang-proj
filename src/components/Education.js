@@ -49,7 +49,7 @@ function Education() {
           <Details
             type="Bachelors of Science in Information Technology"
             place="AU,Tamil Nadu"
-            info="Studied core subjects such as Artificial Intelligence, Machine Learning, AI Algorithms, Multi-Media ,Networking, Database Management, Web Development, and Operating Systems, while completing hand on projects in hardware configuration, software development, and network design, also learned French Language as part of the curriculum, focusing on basic communication, reading, and technical vocabulary."
+            info="Studied core subjects such as Artificial Intelligence, Machine Learning, AI Algorithms, MultiMedia ,Networking, Database Management, Web Development, and Operating Systems, while completing hand on projects in hardware configuration, software development, and network design, also learned French Language as part of the curriculum, focusing on basic communication, reading, and technical vocabulary.
           />
           <Details
             type="Hardware Course and PC maintenance & Networking"
