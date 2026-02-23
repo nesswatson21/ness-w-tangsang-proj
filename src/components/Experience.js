@@ -58,14 +58,14 @@ function Experience() {
             position="Aircel Telecom"
             company=" https://aircel.com/ "
            adress="Guwahati, Assam"
-            work="Handled escalated customer issues and ensured SLA (Service-Level Agreement) adherences"
+            work="Handled escalated customer issues and ensured SLA (Service Level Agreement) adherences"
           />
           <Details
             companyLink="https://bsnl.co.in"
             position="Sale & Marketing"
             company="https://bsnl.co.in"
             adress="📍 Shillong, Meghalaya"
-            work="Managed end-to-end customer service operations across landline, broadband, and mobile segments, leading a helpdesk team and coordinating with field technicians to ensure timely resolution of high-volume technical issues."
+            work="Managed end to end customer service operations across landline, broadband, and mobile segments, leading a helpdesk team and coordinating with field technicians to ensure timely resolution of high volume technical issues."
           />
           <Details
             companyLink="/#"
