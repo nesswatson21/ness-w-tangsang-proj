@@ -59,8 +59,6 @@ function Education() {
           <Details
             type="Arena Multi-Media & VFX  & CEH Course from Symantec "
             info="Completed certified training in VFX, Graphic Design, Motion Graphics, Video Editing, Photography, and Web & Graphics Design, gaining hands on experience with tools like Autodesk Maya, Cinema 4D, Houdini, Adobe Photoshop, After Effects, Illustrator, Premiere Pro , Davinci Resolve Studio, Blender, Unreal Engine. Worked on animation clips, visual composition projects, logo design, and responsive web layouts while learning the fundamentals of storytelling, 3D modeling, lighting, texturing, and compositing. Participated in workshops and peer reviews to enhance both creative thinking and technical execution &  tech driven professional with hand on experience in networking, system hardware, and cybersecurity. Alongside my background in IT infrastructure and multimedia, I have pursued specialized training as a Certified Ethical Hacker (C.E.H) to deepen my knowledge in ethical hacking, vulnerability assessment, and digital defense strategies. This certification has equipped me to think like a hacker to protect systems, secure data, and contribute to a safer digital environment.
-
-.
 "
           />
         </ul>
