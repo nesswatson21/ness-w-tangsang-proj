@@ -180,9 +180,9 @@ const projects = () => {
                                 title="My Portfolio"
                                 img={project1}
                                 summary="I wanted to create a site that showcased my skills and projects in a clean and modern way. With NextJS, I was able to build a fast and responsive site that highlights my work and experience."
-                                link="/https://github.com/nesswatson21/auto_suggest-ajax-jquery-php"
+                                link="https://github.com/nesswatson21/auto_suggest-ajax-jquery-php"
                                 type="Creative Style Project"
-                                githubLink="/https://github.com/nesswatson21/auto_suggest-ajax-jquery-php"
+                                githubLink="https://github.com/nesswatson21/auto_suggest-ajax-jquery-php"
                             />
                         </div>
                         <div className="col-span-6 sm:col-span-12">
